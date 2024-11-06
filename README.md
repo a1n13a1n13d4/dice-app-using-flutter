@@ -59,4 +59,4 @@ These instructions will help you set up and run the project locally.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
