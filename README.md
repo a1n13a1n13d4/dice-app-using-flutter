@@ -20,7 +20,7 @@ These instructions will help you set up and run the project locally.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/diceapp.git
+   git clone https://github.com/a1n13a1n13d4/dice-app-using-flutter/
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -44,7 +44,7 @@ These instructions will help you set up and run the project locally.
 - `lib/main.dart`: The entry point of the app.
 - `lib/dicemainpage.dart`: The main page with dice rolling functionality.
 - `pubspec.yaml`: Lists all dependencies and assets for the project.
-- `assets/images/`: Contains the dice images (dice1.png, dice2.png, etc.).
+- `images/`: Contains the dice images (dice1.png, dice2.png, etc.).
 
 ## How to Use the App
 
@@ -56,10 +56,6 @@ These instructions will help you set up and run the project locally.
 
 - **Flutter**: Framework for building the app.
 - **cupertino_icons**: For iOS icons (provided in Flutter by default).
-
-## Screenshots
-
-_Add screenshots here to showcase the UI and functionality._
 
 ## License
 
