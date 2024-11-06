@@ -6,12 +6,7 @@ A simple, fun Flutter app that simulates rolling two dice. The user can tap on t
 - **Interactive Dice Rolling**: Tap on either dice image or the "Roll Dice" button to get a new random roll.
 - **Sum Display**: Shows the sum of the two dice after each roll.
 - **Colorful UI**: Vibrant colors for a lively user experience.
-
-## Demo
-
-![Dice App Demo](images/demo_screenshot.png)  
-_Add an image here to show the app's layout._
-
+- 
 ## Getting Started
 
 These instructions will help you set up and run the project locally.
